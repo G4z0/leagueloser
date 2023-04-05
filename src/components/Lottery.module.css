@@ -1,0 +1,11 @@
+.carousel .slide {
+    background: transparent;
+  }
+  
+  .carousel .control-dots {
+    display: none;
+  }
+  
+  .carousel .carousel-status {
+    display: none;
+  }
